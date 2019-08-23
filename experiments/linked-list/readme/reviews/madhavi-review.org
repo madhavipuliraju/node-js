@@ -1,0 +1,57 @@
+#+TITLE: Review of Linked List Experiment
+#+AUTHOR: VLEAD
+#+DATE: [2019-08-22 Thursday] 
+#+SETUPFILE: ./org-templates/level-0.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Introduction
+  This document captures the review comments for the
+  =Linked List= experiment.
+  
+* Review Comments
+  + Please find the review comments for an experiment. Once
+  the issue is fixed, update the status of an issue in the
+  below table.  Also, comment and add label(eg:
+  Resolved/Differed etc.,) to the Git issue to track the
+  status.
+  + Make sure you put descriptions of all the variables that
+    are used in the Javascript. Description should say what
+    the variable does and where it is used.
+
+  |------+----------+--------+----------------------------|
+  | S.NO | Project  | Issues | Resolved(Y/N) and Comments |
+  |------+----------+--------+----------------------------|
+  |   1. | Content  | [[https://gitlab.com/vlead-projects/experiments/ds/linked-list/content-html/issues/4][#4]]     |                            |
+  |------+----------+--------+----------------------------|
+  |   2. | Content  | [[https://gitlab.com/vlead-projects/experiments/ds/linked-list/content-html/issues/5][#5]]     |                            |
+  |------+----------+--------+----------------------------|
+  |   3. | Content  | [[https://gitlab.com/vlead-projects/experiments/ds/linked-list/content-html/issues/6][#6]]     |                            |
+  |------+----------+--------+----------------------------|
+  |   4. | Content  | [[https://gitlab.com/vlead-projects/experiments/ds/linked-list/content-html/issues/7][#7]]     |                            |
+  |------+----------+--------+----------------------------|
+  |   5. | Content  | [[https://gitlab.com/vlead-projects/experiments/ds/linked-list/content-html/issues/8][#8]]     |                            |
+  |------+----------+--------+----------------------------|
+  |   6. | Content  | [[https://gitlab.com/vlead-projects/experiments/ds/linked-list/content-html/issues/9][#9]]     |                            |
+  |------+----------+--------+----------------------------|
+  |   6. | Content  | [[https://gitlab.com/vlead-projects/experiments/ds/linked-list/content-html/issues/10][#10]]    |                            |
+  |------+----------+--------+----------------------------|
+  |   8. | Content  | [[https://gitlab.com/vlead-projects/experiments/ds/linked-list/content-html/issues/11][#11]]    |                            |
+  |------+----------+--------+----------------------------|
+  |   9. | Content  | [[https://gitlab.com/vlead-projects/experiments/ds/linked-list/content-html/issues/15][#15]]    |                            |
+  |------+----------+--------+----------------------------|
+  |  10. | Content  | [[https://gitlab.com/vlead-projects/experiments/ds/linked-list/content-html/issues/16][#16]]    |                            |
+  |------+----------+--------+----------------------------|
+  |  11. | Artefact | [[https://gitlab.com/vlead-projects/experiments/ds/linked-list/artefacts/issues/86][#86]]    |                            |
+  |------+----------+--------+----------------------------|
+  |  12. | Artefact | [[https://gitlab.com/vlead-projects/experiments/ds/linked-list/artefacts/issues/87][#87]]    |                            |
+  |------+----------+--------+----------------------------|
+  |  13. | Artefact | [[https://gitlab.com/vlead-projects/experiments/ds/linked-list/artefacts/issues/88][#88]]    |                            |
+  |------+----------+--------+----------------------------|
+  |  14. | Artefact | [[https://gitlab.com/vlead-projects/experiments/ds/linked-list/artefacts/issues/89][#89]]    |                            |
+  |------+----------+--------+----------------------------|
+  |  15. | Artefact | [[https://gitlab.com/vlead-projects/experiments/ds/linked-list/artefacts/issues/90][#90]]    |                            |
+  |------+----------+--------+----------------------------|
+
+ 
